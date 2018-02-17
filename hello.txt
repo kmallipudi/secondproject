@@ -1,0 +1,4 @@
+this is sample file::
+:wq!
+:wq!
+
